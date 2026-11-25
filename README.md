@@ -18,10 +18,6 @@ Four stages from the academy's boundaries guide:
 
 Traps: over-justifying or giving in, and accusing or threatening. Good moves: a clear boundary, an I-statement, and understanding without retreating. Two choices return the learner to an earlier stage.
 
-## Voice
-
-The character's replies are read aloud with the browser's built-in Arabic speech (Web Speech API). Nothing is downloaded or sent anywhere. The page prefers a Gulf-region voice (ar-SA, ar-AE, ar-KW, ar-QA) of the character's gender when the device has one, with a lower pitch for Khalid. Stage directions in brackets are not read, and the character speaks a little slower and warmer as trust rises. Each reply in the chat has a «استمع» replay button, and the footer switch («صوت نورة» or «صوت خالد») turns the voice off. On devices with no Arabic voice the controls stay hidden and the bite works as text. Voices differ by device: Edge and Windows voices (e.g. Zariyah) usually sound best, and Chrome on Android and Safari on iPhone and iPad also have Arabic voices.
-
 ## Notes for facilitators
 
 - Noura, hidden layer 1: she enrolled in an evening diploma (Thursdays 6 to 10 pm) and told no one.
